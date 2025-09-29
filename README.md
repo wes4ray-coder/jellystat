@@ -14,3 +14,13 @@ python app.py
 ```
 
 Default port is 4242 and default host is 0.0.0.0. Settings are stored in `config.json` next to `app.py` after you save them.
+
+## Screenshots
+
+Dashboard view:
+
+![Dashboard view](docs/images/dashboard_screenshot_20250929.png)
+
+Settings view:
+
+![Settings view](docs/images/settings_screenshot_20250929.png)
